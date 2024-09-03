@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArraysCC",
+            "request": "launch",
+            "mainClass": "ArraysCC",
+            "projectName": "Binary Search_c9fc6578"
+        },
+        {
+            "type": "java",
+            "name": "PairsinArray",
+            "request": "launch",
+            "mainClass": "PairsinArray",
+            "projectName": "Binary Search_c9fc6578"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "Binary Search_c9fc6578"
+        },
+        {
+            "type": "java",
+            "name": "maxsubArraysum",
+            "request": "launch",
+            "mainClass": "maxsubArraysum",
+            "projectName": "Binary Search_c9fc6578"
+        },
+        {
+            "type": "java",
+            "name": "subArrays",
+            "request": "launch",
+            "mainClass": "subArrays",
+            "projectName": "Binary Search_c9fc6578"
+        }
+    ]
+}

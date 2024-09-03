@@ -1,0 +1,12 @@
+  LinkedList ll = new LinkedList();
+        ll.addFirst(1);
+        ll.addFirst(3);
+        ll.addFirst(3);
+        ll.addFirst(3);
+        ll.addFirst(1);
+        ll.add(2, 9);
+        ll.print();
+        ll.removeFirst();
+        ll.print();
+        ll.removeLast();
+        ll.print();
